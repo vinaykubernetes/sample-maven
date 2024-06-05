@@ -33,7 +33,7 @@
           <id>nexus</id>  
           <name>Release Repos</name>
           <url>http://34.228.231.181:8081/repository/first-release/</url>
-       </repository>
+      </repository>
       <snapshotRepository>
           <id>nexus</id>
           <name>Snapshot Repos</name>
